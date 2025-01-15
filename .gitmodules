@@ -1,3 +1,6 @@
 [submodule "musical-encyclopedia-backend"]
 	path = musical-encyclopedia-backend
 	url = https://github.com/KhalilBDJ/musical-encyclopedia-backend
+[submodule "musical-encyclopedia-frontend"]
+	path = musical-encyclopedia-frontend
+	url = git@github.com:KhalilBDJ/musical-encyclopedia-frontend.git
